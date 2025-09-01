@@ -26,7 +26,7 @@ The model combines **TF-IDF vectorization** with **deep learning** to achieve re
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/spam-sms-detector.git
+git clone https://github.com/Baishakhi-Sing/spam-sms-detector.git
 cd spam-sms-detector
 
 # Create a virtual environment :
